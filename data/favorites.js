@@ -8,5 +8,4 @@ module.exports = [
     publisher: 'DC Comics',
     alignment: 'good'
   },
-  
 ];
